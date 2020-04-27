@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: INA
+Build-Jdk: 13.0.1
+Implementation-Title: Spring Boot - Web Application Example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lifefrom.tutorial.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/apring-boot-we
+ b-application/
+Created-By: Maven Integration for Eclipse
+
